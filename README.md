@@ -1,4 +1,4 @@
-**# Managing HTML Title in Angular**
+ # Managing HTML Title in Angular 
 
 **Introduction**
 
